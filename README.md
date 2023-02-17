@@ -13,6 +13,9 @@ This is a simple tip calculator that allows you to calculate the tip and total b
  - JavaScript
  - HTML
  - CSS
+
+## Demo
+A demo of the app can be found here: [Tip Calculator](https://alexcrocha.github.io/ACS-1320-tip-calculator/)
 ## Available Scripts
 
 In the project directory, you can run:
