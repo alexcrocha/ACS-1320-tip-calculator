@@ -1,7 +1,18 @@
-# Getting Started with Create React App
+# Tip Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple tip calculator that allows you to calculate the tip and total bill amount based on the bill amount, tip percentage, and the number of people splitting the bill.
 
+## How to use the app
+1. Enter the bill amount in dollars in the "Bill Amount" field.
+2. Enter the tip percentage you would like to give in the "Tip Percentage" field. The default percentage is set to 15%.
+3. Enter the number of people splitting the bill in the "Split" field. The default value is set to 1.
+4. The app will calculate the tip amount, total bill amount, and the amount each person should pay.
+
+## Technologies used
+ - React.js
+ - JavaScript
+ - HTML
+ - CSS
 ## Available Scripts
 
 In the project directory, you can run:
